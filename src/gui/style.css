@@ -1,0 +1,4 @@
+.background_image{
+	-fx-background-image: url("../img/OIP.jpg");
+	-fx-background-color: transparent;
+}
